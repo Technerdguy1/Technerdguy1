@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on exciting Projects 
 - 📫 How to reach me elishakuje12@gmail.com 
 
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Technerdguy1
 <!---
 Technerdguy1/Technerdguy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
